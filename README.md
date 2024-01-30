@@ -9,5 +9,3 @@ React
 
 ### Back-end
 Mongodb
-
-## License
