@@ -22,7 +22,7 @@ The following elements are part of my stack.
 - Python
 - PHP
 
-## 🌎 More
+## 🌎 More
 [On this link you can check some of the projects I've been involved with.](http://www.nolab.com.br)
 
 <a href="https://www.instagram.com/nolab.design">
