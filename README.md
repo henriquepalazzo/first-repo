@@ -11,3 +11,6 @@ React
 Mongodb
 
 [Testing link](http://www.spiced.de)
+
+![Mongodb Logo](MongoDB-Logo.png)
+![React Logo](react-1-logo-png-transparent.png)
