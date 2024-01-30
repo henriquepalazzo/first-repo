@@ -1,16 +1,26 @@
-# first-repo
-This repository is intended to be used as a test repository for the course.
+# Welcome to my profile
+Here you will find a bit more about what I've done recently.
+
+![Henrique Palazzo](another_other_me.JPG)
+
+## About
+I've been working with technology, design and arts for about 20 years. During this time, I've developed a multidisciplinary approach, going through the many steps involved in the conception and development of applications and digital interfaces.
 
 ## Tech stack
-The tech stack used for this project is the one know as MERN
+The following elements are part of my stack.
 
 ### Front-end
-React
+- HTML
+- CSS / SASS
+- React
+- JS
 
 ### Back-end
-Mongodb
+- Mongodb
+- PostgreSQL
+- MySQL
+- Python
+- PHP
 
-[Testing link](http://www.spiced.de)
-
-![Mongodb Logo](MongoDB-Logo.png)
-![React Logo](react-1-logo-png-transparent.png)
+## More
+[On this link you can check some of the projects I've been involved with.](http://www.nolab.com.br)
